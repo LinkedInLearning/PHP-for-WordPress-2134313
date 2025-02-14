@@ -4,10 +4,8 @@ Dies ist das Repository für den **LinkedIn Learning** Kurs `PHP-Grundwissen fü
 
 ![COURSENAME][lil-thumbnail-url] 
 
-Möchten Sie benutzerdefinierte Funktionen zu Ihrer WordPress-Website hinzufügen und eigene Plug-ins schreiben? In diesem Kurs erfahren Sie, was jede/r WordPress-Entwickler:in wissen muss, um mit dem Programmieren in PHP zu beginnen. Florence Maurice hilft Ihnen, sich schnell mit der beliebten serverseitigen Programmiersprache vertraut zu machen und erklärt genau das, was Sie wissen müssen, um eigenen benutzerdefinierten Code hinzuzufügen.<br><br>
-
-Lernen Sie Entscheidungsfindung mit bedingten Anweisungen, das Erstellen benutzerdefinierter Funktionen und wie WordPress die meisten Variablen handhabt.  Am Ende dieses Kurses werden Sie über ein grundlegendes Verständnis von PHP verfügen und wissen, wie Sie es verwenden können, um einfache Änderungen in WordPress vorzunehmen.<br><br>
-
+Möchten Sie benutzerdefinierte Funktionen zu Ihrer WordPress-Website hinzufügen und eigene Plug-ins schreiben? In diesem Kurs erfahren Sie, was jede/r WordPress-Entwickler:in wissen muss, um mit dem Programmieren in PHP zu beginnen. Florence Maurice hilft Ihnen, sich schnell mit der beliebten serverseitigen Programmiersprache vertraut zu machen und erklärt genau das, was Sie wissen müssen, um eigenen benutzerdefinierten Code hinzuzufügen.<br>
+Lernen Sie Entscheidungsfindung mit bedingten Anweisungen, das Erstellen benutzerdefinierter Funktionen und wie WordPress die meisten Variablen handhabt.  Am Ende dieses Kurses werden Sie über ein grundlegendes Verständnis von PHP verfügen und wissen, wie Sie es verwenden können, um einfache Änderungen in WordPress vorzunehmen.<br>
 Mit der Hilfe von zahlreichen Challenges/Solutions-Einheiten können Sie das erworbene Wissen immer wieder testen und anschließend Ihre Lösung mit der Ihrer Trainerin vergleichen.
 
 
